@@ -1,6 +1,6 @@
 # Proyecto #1 Bases de datos II
 
-#Elaborado por:
+# Elaborado por:
 
 Bonilla Espinoza, Alina
 
