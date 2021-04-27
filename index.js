@@ -1,6 +1,3 @@
-//var http = require('http');
-//const url = require('url');
-
 //************************************** CREACION DEL SERVIDOR EXPRESS ****************************************
 const express = require('express');
 const app = express();
