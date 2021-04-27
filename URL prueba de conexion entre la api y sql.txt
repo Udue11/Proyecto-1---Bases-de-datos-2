@@ -1,0 +1,54 @@
+				CLIENTE 
+ESPECIFICO
+http://localhost:3000/clienteE/841
+GENERAL
+http://localhost:3000/clienteG/%20/%20/%20
+http://localhost:3000/clienteG/Abel%20Spirlea/Novelty%20Shop/Delivery%20Van
+
+
+				PROVEEDOR
+ESPECIFICO
+http://localhost:3000/proveedorE/2
+GENERAL
+http://localhost:3000/proveedorG/%20/%20/%20
+http://localhost:3000/proveedorG/Contoso,%20Ltd./Novelty%20Goods%20Supplier/Refrigerated%20Road%20Freight
+
+
+				INVENTARIO
+ESPECIFICO
+http://localhost:3000/inventarioE/4
+GENERAL
+http://localhost:3000/inventarioG/%20/%20/0
+http://localhost:3000/inventarioG/20%20mm%20Double%20sided%20bubble%20wrap%2020m/Packaging%20Materials/244121
+http://localhost:3000/inventarioG/%22The%20Gu%22%20red%20shirt%20XML%20tag%20t-shirt%20(Black)%206XL/Clothing/270723
+
+
+				VENTAS
+ESPECIFICO
+http://localhost:3000/ventaE/34
+GENERAL
+http://localhost:3000/ventaG/0/%20/%20/1900-01-01/1900-01-01/0/0
+http://localhost:3000/ventaG/6770/Magdalena%20Michnova/Delivery%20Van/1900-01-01/2013-05-14/100/700
+
+
+			***** ESTADISTICOS *****
+--> PRIMERO
+http://localhost:3000/estadistico/proveedor/%20
+http://localhost:3000/estadistico/proveedor/A%20Datum%20Corporation
+
+--> SEGUNDO
+http://localhost:3000/estadistico/cliente/%20
+http://localhost:3000/estadistico/cliente/Amet%20Shergil
+
+-->TERCERO
+http://localhost:3000/estadistico/ganancias/0/0/0/0
+http://localhost:3000/estadistico/ganancias/2000/2013/02/12
+
+-->CUARTO
+http://localhost:3000/estadistico/cliente-frecuente/0/0/0/0
+http://localhost:3000/estadistico/cliente-frecuente/2000/2013/02/12
+
+-->QUINTO
+http://localhost:3000/estadistico/proveedor-frecuente/0/0/0/0
+http://localhost:3000/estadistico/proveedor-frecuente/2000/2013/02/12
+
