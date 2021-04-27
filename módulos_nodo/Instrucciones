@@ -1,0 +1,7 @@
+Para la realización de la api, se procedio a ejecutar los siguientes comandos en el cmd:
+
+npm init
+npm install express
+npm i mssql
+
+Esto nos creara automaticamente la carpeta de node_modules
